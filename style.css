@@ -1,1 +1,17 @@
+.tabira-imagem-container {
+    padding: 18px 0;
+}
+
+.tabira-imagem {
+    width: min(100%, 900px);
+    max-height: 420px;
+    object-fit: cover;
+    border-radius: 18px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+    border: 4px solid rgba(255, 255, 255, 0.7);
+}
+
+.titulo-principal {
+    color: #3b2a1a;
+}
 
